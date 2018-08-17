@@ -4,8 +4,7 @@ This is a front-end development starter kit that uses [Parcel](https://en.parcel
 Linting is done using [standardJS](https://standardjs.com/). 
 The use of standardJS editor extensions is recommended (for VSCode: [vscode-standardjs](https://marketplace.visualstudio.com/items/chenxsan.vscode-standardjs), [vscode-standardjs-snippets](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets), [vscode-react](https://marketplace.visualstudio.com/items/TimonVS.ReactSnippetsStandard) ).
 
-The main content of this repository is package.json..
-Also included is a test /src folder and a test index.html.
+Included is a test /src folder (with JS and Scss) and a test index.html.
 
 ### How does it work
 
@@ -32,3 +31,7 @@ Also included is a test /src folder and a test index.html.
     ```
 
     will generate production files.
+
+___
+
+Favicon made by [Freepik](http://www.freepik.com "Freepik") from [www.flaticon.com](https://www.flaticon.com/ "Flaticon") is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")
