@@ -1,6 +1,6 @@
 const App = (() => {
   function init () {
-    console.log('logging works')
+    alert('module import works')
   }
 
   return {
