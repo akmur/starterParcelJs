@@ -1,8 +1,8 @@
-# Webpack Starter Kit
+# ParcelJS Starter Kit
 
-This is a front-end development starter kit that uses **npm**, **webpack** and **browsersync**.
+This is a front-end development starter kit that uses [Parcel](https://en.parceljs.org/).
 
-The main content of this repository is package.json and webpack.config.js.
+The main content of this repository is package.json..
 Also included is a test /src folder and a test index.html.
 
 ### How does it work
@@ -23,12 +23,10 @@ Also included is a test /src folder and a test index.html.
     npm run dev
     ```
 
-    which will start browsersync, compile your js and scss, create sourcemaps and watch for file changes.
-
-    The command
+    which will start Parcel (which in turn will compile your js and scss, watch for file changes and serve your index.html).
 
     ```bash
     npm run dist
     ```
 
-    will generate production files by additionally minifying css and packing media queries, plus less detailed source maps.
+    will generate production files.

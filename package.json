@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build entry.js"
+    "dist": "parcel build entry.js"
   },
   "author": "Alessandro Muraro <akmuraro@gmail.com>",
   "license": "ISC",
