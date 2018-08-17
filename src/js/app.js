@@ -1,5 +1,5 @@
 /* global document sweetAlert */
-
+import '../scss/main.scss'
 import $ from 'jquery'
 import main from './main'
 import './sweet-alert'
