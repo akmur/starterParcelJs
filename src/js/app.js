@@ -8,5 +8,5 @@ document.addEventListener('DOMContentLoaded', () => {
   const welcomeMessage = 'Welcome to starterParcel'
   main.init() // testing my custom module
   $('.js-title').text(welcomeMessage) // testing jQuery and transpiling
-  sweetAlert('Hello world!') // testing old skool external plugin import
+  sweetAlert('Old skool plugin works too!') // testing old skool external plugin import
 })
